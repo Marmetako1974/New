@@ -979,39 +979,39 @@ Copiar
 
 Abrir en otro programa
 http://127.0.0.1:6878/ace/getstream?id=
-acestream://
+acestream://6994af284ecab2996f9b140ef44b8da8bfee0006
+6994af284ecab2996f9b140ef44b8da8bfee0006
 
-
-
+6994af284ecab2996f9b140ef44b8da8bfee0006
 Abrir 
 Copiar
-
+6994af284ecab2996f9b140ef44b8da8bfee0006
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=
-acestream://
+http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
+acestream://7cf437be950f3525e735be57c63f7824cab822c9
+7cf437be950f3525e735be57c63f7824cab822c9
 
-
-
+7cf437be950f3525e735be57c63f7824cab822c9
 Abrir 
 Copiar
-
+7cf437be950f3525e735be57c63f7824cab822c9
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=
-acestream://
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
+ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 
-
-
+ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 Abrir 
 Copiar
-
+ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=
-acestream://
+http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
+acestream://7cf437be950f3525e735be57c63f7824cab822c9
+7cf437be950f3525e735be57c63f7824cab822c9
 
-
-
+7cf437be950f3525e735be57c63f7824cab822c9
 Abrir 
 Copiar
-
+7cf437be950f3525e735be57c63f7824cab822c9
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9

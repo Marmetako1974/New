@@ -564,11 +564,43 @@ http://127.0.0.1:6878/ace/getstream?id=
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Abrir en otro programa  
 http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=  aces
+http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006  6994
+http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", 6994af284ecab2996f9b140ef44b8da8bfee0006  6994
+http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Copiar  6994
+http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Abrir en otro programa  
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006  aces
+http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9  7cf4
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", 7cf437be950f3525e735be57c63f7824cab822c9  7cf4
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Copiar  7cf4
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Abrir en otro programa  
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9  aces
+http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48  ad6f
+http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48  ad6f
+http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Copiar  ad6f
+http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Abrir en otro programa  
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48  aces
+http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9  7cf4
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", 7cf437be950f3525e735be57c63f7824cab822c9  7cf4
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Copiar  7cf4
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Abrir en otro programa  
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
