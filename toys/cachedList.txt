@@ -745,24 +745,24 @@ Copiar
 
 Abrir en otro programa
 http://127.0.0.1:6878/ace/getstream?id=
-acestream://
+acestream://f41f1096862767289620be5bd85727f946a434db
+f41f1096862767289620be5bd85727f946a434db
 
-
-
+f41f1096862767289620be5bd85727f946a434db
 Abrir 
 Copiar
-
+f41f1096862767289620be5bd85727f946a434db
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=
-acestream://
+http://127.0.0.1:6878/ace/getstream?id=f41f1096862767289620be5bd85727f946a434db
+acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
+e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
-
-
+e258e75e0e802afa5fcc53d46b47d8801a254ad5
 Abrir 
 Copiar
-
+e258e75e0e802afa5fcc53d46b47d8801a254ad5
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254ad5
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 7cf0086fa7d478f51dbba952865c79e66cb9add5
 
