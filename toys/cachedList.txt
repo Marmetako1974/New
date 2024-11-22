@@ -25,15 +25,15 @@ Copiar
 
 Abrir en otro programa
 http://127.0.0.1:6878/ace/getstream?id=undefined
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+61b9b271c16f970aab43cb753c5f8be181dceece
 
-
-
-
+61b9b271c16f970aab43cb753c5f8be181dceece
 Abrir 
 Copiar
-
+61b9b271c16f970aab43cb753c5f8be181dceece
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=undefined
+http://127.0.0.1:6878/ace/getstream?id=61b9b271c16f970aab43cb753c5f8be181dceece
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
