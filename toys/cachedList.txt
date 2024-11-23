@@ -502,15 +502,15 @@ Copiar
 12ba546d229bc39f01c3c18988a034b215fe6adb
 Abrir en otro programa
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
-acestream://
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+d8c2ed470e847154a88f011137cc206319f6bed5
 
-
-
+d8c2ed470e847154a88f011137cc206319f6bed5
 Abrir 
 Copiar
-
+d8c2ed470e847154a88f011137cc206319f6bed5
 Abrir en otro programa
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
