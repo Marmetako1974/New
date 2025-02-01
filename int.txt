@@ -34,6 +34,10 @@ http://192.168.1.90:8008/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03
 http://192.168.1.90:8008/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EoR81fJFuLzF0QGi1WAw9t8otRPfwyHdV9UBKcLrQltS7eUUh3yKrZ2U_ICEmjo4PIA&usqp=CAU", Ziggo Sport Racing NL  7780
 http://192.168.1.90:8008/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Canal  
+https://t.me/+rBan4z-b3jVjZGE0
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", https://t.me/+rBan4z-b3jVjZGE0  
+https://t.me/+rBan4z-b3jVjZGE0
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Abrir en otro programa  
 http://127.0.0.1:6878/ace/getstream?id=undefined
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", http://127.0.0.1:6878/ace/getstream?id=undefined  aces
