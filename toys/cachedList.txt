@@ -1,5 +1,23 @@
-https://t.me/+rBan4z-b3jVjZGE0
-https://t.me/+rBan4z-b3jVjZGE0
+Elcano.top via IPFS
+https://ipfs.io/ipns/elcano.top
+IPFS Local
+http://k51qzi5uqu5dgg9al11vomikugim0o1i3l3fxp3ym3jwaswmy9uz8pq4brg1u9.ipns.localhost:8080/
+ElCano ZeroNet Local
+http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/
+Proxy ZeroNet
+https://proxy.zeronet.dev/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/
+ZeroNet Local ACEStream new_Time
+http://127.0.0.1:43110/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q
+ZeroNet Proxy ACEStream new_Time
+https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q
+IPFS (actualización más lenta) ACEStream new_Time
+https://ipfs.io/ipns/k51qzi5uqu5di00365631hrj6m22vsjudpbtw8qpfw6g08gf3lsqdn6e89anq5
+ACEStream Search
+https://acestreamsearch.net/
+ZeroNet (siempre actualizado)
+http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/
+Proxy (actualización variable)
+https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/
 
 
 
