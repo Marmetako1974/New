@@ -20,6 +20,42 @@ ZeroNet (siempre actualizado)
 http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/
 Proxy (actualización variable)
 https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+d6281d4e6310269b416180442a470d23a4a99dc9
+
+d6281d4e6310269b416180442a470d23a4a99dc9
+Abrir 
+Copiar
+d6281d4e6310269b416180442a470d23a4a99dc9
+Abrir en otro programa
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+
+2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+Abrir 
+Copiar
+2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+Abrir en otro programa
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+
+71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+Abrir 
+Copiar
+71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+Abrir en otro programa
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+268289e7a3c5209960b53b4d43c8c65fab294b85
+
+268289e7a3c5209960b53b4d43c8c65fab294b85
+Abrir 
+Copiar
+268289e7a3c5209960b53b4d43c8c65fab294b85
+Abrir en otro programa
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 
 
 
